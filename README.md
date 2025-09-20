@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Syedfahad-ui/Syedfahad-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m *[Syed Fahad], an Artificial Intelligence & Data Science student at **Middlesex University Dubai*.  
+I’m passionate about AI, Data Science, and building solutions that make an impact.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 AI & Data Science Student  
+- 🤖 Enthusiastic about Machine Learning, Deep Learning & Data Analytics  
+- 🌍 Eager to learn, build projects, and contribute to open source  
+
+---
+
+### 🛠️ Tech & Tools
+- Programming: Python, R, SQL  
+- AI/ML: TensorFlow, PyTorch, Scikit-Learn  
+- Data: Pandas, NumPy, Matplotlib, Seaborn  
+- Tools: Git, Jupyter, VS Code  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/syed-fahad-ehsan-34a824319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- [Email](fahadehsansyed@gmail.com)
